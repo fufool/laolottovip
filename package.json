@@ -1,0 +1,18 @@
+{
+  "name": "laolottovip",
+  "main": "laolottovip",
+  "theme": "syntax",
+  "version": "1.1.32",
+  "description": "สมัครหวยลาว แทงหวยลาวจ่ายสูงที่สุดในไทย แจกฟรีสูตรหวยลาวแม่น ๆ ยิ่งสมัครยิ่งได้ลุ้น เว็บหวยออนไลน์อันดับหนึ่ง",
+  "keywords": [
+    "สมัครหวยลาว",
+    "เลขเด็ดลาว",
+    "แทงหวยลาว",
+    "สูตรหวยลาว"
+  ],
+  "repository": "https://github.com/fufool/laolottovip.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
